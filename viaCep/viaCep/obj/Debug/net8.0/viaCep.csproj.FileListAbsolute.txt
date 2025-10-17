@@ -1,0 +1,14 @@
+C:\Users\Felipe Romio\Desktop\Cursos\C#\Exemplos\viaCep\viaCep\obj\Debug\net8.0\viaCep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe Romio\Desktop\Cursos\C#\Exemplos\viaCep\viaCep\obj\Debug\net8.0\viaCep.AssemblyInfoInputs.cache
+C:\Users\Felipe Romio\Desktop\Cursos\C#\Exemplos\viaCep\viaCep\obj\Debug\net8.0\viaCep.AssemblyInfo.cs
+C:\Users\Felipe Romio\Desktop\Cursos\C#\Exemplos\viaCep\viaCep\obj\Debug\net8.0\viaCep.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Romio\Desktop\Cursos\C#\Exemplos\viaCep\viaCep\bin\Debug\net8.0\viaCep.exe
+C:\Users\Felipe Romio\Desktop\Cursos\C#\Exemplos\viaCep\viaCep\bin\Debug\net8.0\viaCep.deps.json
+C:\Users\Felipe Romio\Desktop\Cursos\C#\Exemplos\viaCep\viaCep\bin\Debug\net8.0\viaCep.runtimeconfig.json
+C:\Users\Felipe Romio\Desktop\Cursos\C#\Exemplos\viaCep\viaCep\bin\Debug\net8.0\viaCep.dll
+C:\Users\Felipe Romio\Desktop\Cursos\C#\Exemplos\viaCep\viaCep\bin\Debug\net8.0\viaCep.pdb
+C:\Users\Felipe Romio\Desktop\Cursos\C#\Exemplos\viaCep\viaCep\obj\Debug\net8.0\viaCep.dll
+C:\Users\Felipe Romio\Desktop\Cursos\C#\Exemplos\viaCep\viaCep\obj\Debug\net8.0\refint\viaCep.dll
+C:\Users\Felipe Romio\Desktop\Cursos\C#\Exemplos\viaCep\viaCep\obj\Debug\net8.0\viaCep.pdb
+C:\Users\Felipe Romio\Desktop\Cursos\C#\Exemplos\viaCep\viaCep\obj\Debug\net8.0\viaCep.genruntimeconfig.cache
+C:\Users\Felipe Romio\Desktop\Cursos\C#\Exemplos\viaCep\viaCep\obj\Debug\net8.0\ref\viaCep.dll
