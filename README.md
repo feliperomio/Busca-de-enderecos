@@ -32,6 +32,10 @@ Dessa forma, o sistema:
 
 ---
 
+## 🆕 Melhorias Futuras
+
+- Fazer uma interface
+
 ## 🚀 Como Executar o Projeto
 
 1. Clone o repositório:
