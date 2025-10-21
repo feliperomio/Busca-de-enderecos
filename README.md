@@ -36,8 +36,3 @@ Dessa forma, o sistema:
 
 - Fazer uma interface
 
-## Como Executar o Projeto
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/feliperomio/Busca-de-enderecos.git
