@@ -14,3 +14,4 @@ C:\Users\Felipe Romio\Desktop\Cursos\C#\Exemplos\viaCep-Interface\viaCep-Interfa
 C:\Users\Felipe Romio\Desktop\Cursos\C#\Exemplos\viaCep-Interface\viaCep-Interface\obj\Debug\net8.0-windows\viaCep-Interface.pdb
 C:\Users\Felipe Romio\Desktop\Cursos\C#\Exemplos\viaCep-Interface\viaCep-Interface\obj\Debug\net8.0-windows\viaCep-Interface.genruntimeconfig.cache
 C:\Users\Felipe Romio\Desktop\Cursos\C#\Exemplos\viaCep-Interface\viaCep-Interface\obj\Debug\net8.0-windows\ref\viaCep-Interface.dll
+C:\Users\Felipe Romio\Desktop\Cursos\C#\Exemplos\viaCep-Interface\viaCep-Interface\obj\Debug\net8.0-windows\viaCep_Interface.Erro.resources

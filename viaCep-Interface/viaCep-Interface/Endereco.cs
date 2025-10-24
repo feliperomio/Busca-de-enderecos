@@ -14,6 +14,9 @@ namespace viaCep_Interface {
         public string localidade { get; set; }
 
         public string uf { get; set; }
+
+   
+
     }
 }
 

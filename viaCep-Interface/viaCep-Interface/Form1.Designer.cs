@@ -36,10 +36,13 @@
             // 
             // textBoxCep
             // 
+            textBoxCep.AutoCompleteCustomSource.AddRange(new string[] { "00000-00" });
             textBoxCep.Location = new Point(79, 38);
+            textBoxCep.MaxLength = 8;
             textBoxCep.Name = "textBoxCep";
             textBoxCep.Size = new Size(491, 23);
             textBoxCep.TabIndex = 0;
+            textBoxCep.KeyPress += textBoxCep_KeyPress;
             // 
             // label1
             // 
@@ -69,14 +72,14 @@
             dataGridView1.Location = new Point(28, 92);
             dataGridView1.Name = "dataGridView1";
             dataGridView1.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
-            dataGridView1.Size = new Size(757, 313);
+            dataGridView1.Size = new Size(754, 171);
             dataGridView1.TabIndex = 3;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(817, 430);
+            ClientSize = new Size(806, 299);
             Controls.Add(dataGridView1);
             Controls.Add(btnBuscar);
             Controls.Add(label1);

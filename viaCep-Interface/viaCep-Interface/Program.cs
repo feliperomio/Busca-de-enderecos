@@ -13,5 +13,10 @@ namespace viaCep_Interface
             ApplicationConfiguration.Initialize();
             Application.Run(new Form1());
         }
+
+        public static void IntNumber(KeyPressEventArgs e) {     //parte criada para que somente aceite numeros no textBox
+            if(!char.IsDigit(e.KeyChar) && e.KeyChar != 8)
+                e.Handled = true;
+        }
     }
 }
